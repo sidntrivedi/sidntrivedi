@@ -1,0 +1,12 @@
+{
+  "name": "sidntrivedi-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generated GitHub profile README.",
+  "scripts": {
+    "generate": "node scripts/generate-profile.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
