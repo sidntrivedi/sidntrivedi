@@ -1,4 +1,4 @@
-# Hi there, I'm {{ USERNAME }} 👋
+# Hi there, I'm {{ DISPLAY_NAME }} 👋
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 

@@ -534,6 +534,7 @@ function processTemplate(template, data) {
   let result = template
   
   result = result.replace(/{{\s*USERNAME\s*}}/g, data.username)
+  result = result.replace(/{{\s*DISPLAY_NAME\s*}}/g, data.displayName || data.username)
   result = result.replace(/{{\s*ACCOUNT_AGE\s*}}/g, data.accountAge)
   result = result.replace(/{{\s*COMMITS\s*}}/g, formatNumber(data.totalCommitsLastYear))
   result = result.replace(/{{\s*TOTAL_COMMITS_LAST_YEAR\s*}}/g, formatNumber(data.totalCommitsLastYear))
@@ -702,6 +703,7 @@ async function main() {
   
   const statsData = {
     username: viewer.login,
+    displayName: process.env.PROFILE_DISPLAY_NAME || 'siddhant',
     accountAge,
     totalCommitsLastYear,
     totalCommitsAllTime,
