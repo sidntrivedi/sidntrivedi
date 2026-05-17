@@ -1,12 +1,12 @@
 {
-  "name": "sidntrivedi-profile",
+  "name": "generate-stats",
   "version": "1.0.0",
-  "private": true,
-  "description": "Generated GitHub profile README.",
+  "description": "Generate GitHub stats",
+  "main": "generate-stats.js",
   "scripts": {
-    "generate": "node scripts/generate-profile.js"
+    "generate": "node generate-stats.js"
   },
-  "engines": {
-    "node": ">=20"
+  "dependencies": {
+    "js-yaml": "^4.1.0"
   }
 }
