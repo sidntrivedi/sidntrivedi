@@ -6,16 +6,16 @@ Joined Github **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **66** public repos | 🔥 **61** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2028%25) |
-| 🔥 **953** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2026%25) |
-| 📋 **125** issues | 🔀 **0** PRs | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2024%25) |
-| 🔀 **204** PRs | ![+31,371](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C371) lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2015%25) |
-| ⭐ **42** stars | ![-2,047](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-2%2C047) lines removed | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%207%25) |
+| 📦 **66** public repos | 🔥 **66** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2032%25) |
+| 🔥 **958** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2024%25) |
+| 📋 **125** issues | 🔀 **0** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2024%25) |
+| 🔀 **204** PRs | ![+31,804](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C804) lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2014%25) |
+| ⭐ **43** stars | ![-2,082](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-2%2C082) lines removed | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%206%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) - 15 commits, ![+4,624](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B4%2C624) ![-305](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-305)
-- [sidntrivedi](https://github.com/sidntrivedi/sidntrivedi) - 14 commits, ![+1,493](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C493) ![-516](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-516)
+- [leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) - 19 commits, ![+5,050](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C050) ![-334](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-334)
+- [sidntrivedi](https://github.com/sidntrivedi/sidntrivedi) - 15 commits, ![+1,500](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C500) ![-522](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-522)
 - [leetcode](https://github.com/sidntrivedi/leetcode) - 10 commits, ![+4,850](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B4%2C850) ![-90](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-90)
 - [sidntrivedi.github.io](https://github.com/sidntrivedi/sidntrivedi.github.io) - 9 commits, ![+13,375](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C375) ![-152](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-152)
 - [ytff](https://github.com/sidntrivedi/ytff) - 6 commits, ![+6,069](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C069) ![-156](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-156)
