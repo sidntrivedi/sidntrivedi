@@ -6,16 +6,16 @@ Joined Github **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **66** public repos | 🔥 **67** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2031%25) |
-| 🔥 **959** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2025%25) |
-| 📋 **125** issues | 🔀 **0** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2024%25) |
-| 🔀 **204** PRs | ![+31,811](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C811) lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2014%25) |
-| ⭐ **43** stars | ![-2,089](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-2%2C089) lines removed | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%206%25) |
+| 📦 **66** public repos | 🔥 **68** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2031%25) |
+| 🔥 **960** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2026%25) |
+| 📋 **125** issues | 🔀 **0** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2023%25) |
+| 🔀 **204** PRs | ![+31,816](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C816) lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2013%25) |
+| ⭐ **43** stars | ![-2,094](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-2%2C094) lines removed | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%206%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
 - [leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) - 19 commits, ![+5,050](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C050) ![-334](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-334)
-- [sidntrivedi](https://github.com/sidntrivedi/sidntrivedi) - 16 commits, ![+1,507](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C507) ![-529](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-529)
+- [sidntrivedi](https://github.com/sidntrivedi/sidntrivedi) - 17 commits, ![+1,512](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C512) ![-534](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-534)
 - [leetcode](https://github.com/sidntrivedi/leetcode) - 10 commits, ![+4,850](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B4%2C850) ![-90](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-90)
 - [sidntrivedi.github.io](https://github.com/sidntrivedi/sidntrivedi.github.io) - 9 commits, ![+13,375](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C375) ![-152](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-152)
 - [ytff](https://github.com/sidntrivedi/ytff) - 6 commits, ![+6,069](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C069) ![-156](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-156)
