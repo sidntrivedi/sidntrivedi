@@ -1,8 +1,10 @@
 {
-  "timestamp": 1779050331280,
+  "version": 2,
+  "timestamp": 1779864569534,
   "throughYear": 2025,
+  "excludedRepository": "sidntrivedi/sidntrivedi",
   "totals": {
-    "commits": 893,
+    "commits": 914,
     "issues": 125,
     "prs": 204
   },
