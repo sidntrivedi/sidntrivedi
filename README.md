@@ -7,7 +7,7 @@ Joined Github **8** years ago.
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
 | 📦 **65** public repos | 🔥 **53** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2039%25) |
-| 🔥 **914** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2033%25) |
+| 🔥 **966** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2033%25) |
 | 📋 **125** issues | 🔀 **0** PRs | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2017%25) |
 | 🔀 **204** PRs | ![+30,735](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B30%2C735) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%208%25) |
 | ⭐ **43** stars | ![-1,560](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C560) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
