@@ -6,17 +6,18 @@ Joined Github **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **66** public repos | 🔥 **57** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2036%25) |
-| 🔥 **970** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2031%25) |
-| 📋 **125** issues | 🔀 **0** PRs | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2022%25) |
-| 🔀 **204** PRs | ![+37,807](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B37%2C807) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%207%25) |
-| ⭐ **43** stars | ![-1,791](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C791) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
+| 📦 **67** public repos | 🔥 **64** commits | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2032%25) |
+| 🔥 **977** commits | 📝 **0** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2030%25) |
+| 📋 **125** issues | 🔀 **0** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2027%25) |
+| 🔀 **204** PRs | ![+53,141](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B53%2C141) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%207%25) |
+| ⭐ **43** stars | ![-3,084](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C084) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
 - [leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) - 19 commits, ![+5,050](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C050) ![-334](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-334)
 - [leetcode](https://github.com/sidntrivedi/leetcode) - 12 commits, ![+5,281](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C281) ![-90](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-90)
 - [sidntrivedi.github.io](https://github.com/sidntrivedi/sidntrivedi.github.io) - 9 commits, ![+13,375](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C375) ![-152](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-152)
+- [proteinmate](https://github.com/sidntrivedi/proteinmate) - 7 commits, ![+15,334](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B15%2C334) ![-1,293](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C293)
 - [ytff](https://github.com/sidntrivedi/ytff) - 6 commits, ![+6,069](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C069) ![-156](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-156)
 - [wapp-quote](https://github.com/sidntrivedi/wapp-quote) - 4 commits, ![+7,072](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B7%2C072) ![-231](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-231)
 - [codecrafters-redis-go](https://github.com/sidntrivedi/codecrafters-redis-go) - 4 commits, ![+96](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B96) ![-22](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-22)
