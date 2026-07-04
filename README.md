@@ -6,11 +6,11 @@ Joined Github **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **67** public repos | 🔥 **74** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2039%25) |
-| 🔥 **995** commits | 📝 **0** issues | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2028%25) |
-| 📋 **125** issues | 🔀 **2** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2025%25) |
-| 🔀 **206** PRs | ![+58,608](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B58%2C608) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%206%25) |
-| ⭐ **43** stars | ![-3,742](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C742) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
+| 📦 **67** public repos | 🔥 **76** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2038%25) |
+| 🔥 **997** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2027%25) |
+| 📋 **125** issues | 🔀 **4** PRs | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2027%25) |
+| 🔀 **208** PRs | ![+58,648](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B58%2C648) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
+| ⭐ **43** stars | ![-3,778](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C778) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
@@ -21,8 +21,8 @@ Joined Github **8** years ago.
 - [proteinmate](https://github.com/sidntrivedi/proteinmate) - 7 commits, ![+15,334](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B15%2C334) ![-1,293](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C293)
 - [ytff](https://github.com/sidntrivedi/ytff) - 6 commits, ![+6,069](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C069) ![-156](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-156)
 - [codecrafters-redis-go](https://github.com/sidntrivedi/codecrafters-redis-go) - 4 commits, ![+96](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B96) ![-22](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-22)
+- [aerospike-kubernetes-operator-ctl](https://github.com/aerospike/aerospike-kubernetes-operator-ctl) - 3 commits, ![+859](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B859) ![-92](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-92)
 - [dotfiles](https://github.com/sidntrivedi/dotfiles) - 2 commits, ![+832](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B832) ![-806](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-806)
-- [aerospike-kubernetes-operator-ctl](https://github.com/aerospike/aerospike-kubernetes-operator-ctl) - 1 commits, ![+819](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B819) ![-56](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-56)
 - [aoc](https://github.com/sidntrivedi/aoc) - 1 commits, ![+32](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B32) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0)
 
 ## 🤝 Connect with me
