@@ -8,8 +8,8 @@ Joined Github **8** years ago.
 |----------|-----------|---------------------------|
 | 📦 **67** public repos | 🔥 **76** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2038%25) |
 | 🔥 **997** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2027%25) |
-| 📋 **125** issues | 🔀 **4** PRs | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2027%25) |
-| 🔀 **208** PRs | ![+58,648](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B58%2C648) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
+| 📋 **125** issues | 🔀 **5** PRs | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2027%25) |
+| 🔀 **209** PRs | ![+58,648](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B58%2C648) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
 | ⭐ **43** stars | ![-3,778](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C778) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 
 ## 🚀 Most Active Projects (Last Year)
