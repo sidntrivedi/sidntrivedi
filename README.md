@@ -6,16 +6,16 @@ Joined Github **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **67** public repos | 🔥 **76** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2038%25) |
-| 🔥 **997** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2027%25) |
-| 📋 **125** issues | 🔀 **5** PRs | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2027%25) |
-| 🔀 **209** PRs | ![+58,648](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B58%2C648) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
-| ⭐ **43** stars | ![-3,778](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C778) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
+| 📦 **67** public repos | 🔥 **78** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2038%25) |
+| 🔥 **999** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2028%25) |
+| 📋 **125** issues | 🔀 **5** PRs | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2026%25) |
+| 🔀 **209** PRs | ![+59,096](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B59%2C096) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
+| ⭐ **43** stars | ![-3,864](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C864) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
 - [leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) - 19 commits, ![+5,050](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C050) ![-334](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-334)
-- [wapp-quote](https://github.com/sidntrivedi/wapp-quote) - 13 commits, ![+11,720](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B11%2C720) ![-833](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-833)
+- [wapp-quote](https://github.com/sidntrivedi/wapp-quote) - 14 commits, ![+11,962](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B11%2C962) ![-886](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-886)
 - [leetcode](https://github.com/sidntrivedi/leetcode) - 12 commits, ![+5,281](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C281) ![-90](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-90)
 - [sidntrivedi.github.io](https://github.com/sidntrivedi/sidntrivedi.github.io) - 9 commits, ![+13,375](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C375) ![-152](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-152)
 - [proteinmate](https://github.com/sidntrivedi/proteinmate) - 7 commits, ![+15,334](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B15%2C334) ![-1,293](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C293)
@@ -23,7 +23,7 @@ Joined Github **8** years ago.
 - [codecrafters-redis-go](https://github.com/sidntrivedi/codecrafters-redis-go) - 4 commits, ![+96](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B96) ![-22](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-22)
 - [aerospike-kubernetes-operator-ctl](https://github.com/aerospike/aerospike-kubernetes-operator-ctl) - 3 commits, ![+859](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B859) ![-92](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-92)
 - [dotfiles](https://github.com/sidntrivedi/dotfiles) - 2 commits, ![+832](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B832) ![-806](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-806)
-- [aoc](https://github.com/sidntrivedi/aoc) - 1 commits, ![+32](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B32) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0)
+- [aerospike-kubernetes-operator](https://github.com/aerospike/aerospike-kubernetes-operator) - 1 commits, ![+238](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B238) ![-33](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-33)
 
 ## 🤝 Connect with me
 
