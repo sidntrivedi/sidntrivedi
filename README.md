@@ -6,11 +6,11 @@ Joined Github **8** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **67** public repos | 🔥 **78** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2038%25) |
-| 🔥 **999** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2028%25) |
+| 📦 **67** public repos | 🔥 **79** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2038%25) |
+| 🔥 **1,000** commits | 📝 **0** issues | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2028%25) |
 | 📋 **125** issues | 🔀 **7** PRs | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%2026%25) |
-| 🔀 **211** PRs | ![+59,096](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B59%2C096) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
-| ⭐ **43** stars | ![-3,864](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C864) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
+| 🔀 **211** PRs | ![+59,239](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B59%2C239) lines added | ![Astro](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ff5a03&message=Astro%205%25) |
+| ⭐ **43** stars | ![-3,875](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C875) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
@@ -22,8 +22,8 @@ Joined Github **8** years ago.
 - [ytff](https://github.com/sidntrivedi/ytff) - 6 commits, ![+6,069](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C069) ![-156](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-156)
 - [codecrafters-redis-go](https://github.com/sidntrivedi/codecrafters-redis-go) - 4 commits, ![+96](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B96) ![-22](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-22)
 - [aerospike-kubernetes-operator-ctl](https://github.com/aerospike/aerospike-kubernetes-operator-ctl) - 3 commits, ![+859](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B859) ![-92](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-92)
+- [aerospike-kubernetes-operator](https://github.com/aerospike/aerospike-kubernetes-operator) - 2 commits, ![+381](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B381) ![-44](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-44)
 - [dotfiles](https://github.com/sidntrivedi/dotfiles) - 2 commits, ![+832](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B832) ![-806](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-806)
-- [aerospike-kubernetes-operator](https://github.com/aerospike/aerospike-kubernetes-operator) - 1 commits, ![+238](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B238) ![-33](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-33)
 
 ## 🤝 Connect with me
 
