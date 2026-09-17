@@ -1,6 +1,6 @@
 # Hi there, I'm siddhant 👋
 
-Joined Github **8** years ago.
+Interested in learning about systems, infrastructure and AI.
 
 ## 🤝 Connect with me
 
